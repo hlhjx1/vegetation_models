@@ -1,0 +1,1 @@
+SAM2.1是SAM2的改进版(2025年更新)，代码与SAM2共用，见1_SAM2_Tiny/code

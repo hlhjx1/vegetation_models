@@ -1,0 +1,61 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# 数据集（大文件，可选择性上传）
+# *.tif
+# *.tiff
+# dataset/
+
+# 大型权重文件（建议使用Git LFS或分开存储）
+# *.pth
+# *.pt
+# *.bin
+# weights/*
+
+# 临时文件
+*.log
+*.tmp
+temp/
+.cache/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# Google Colab相关
+.colab
+
+# 输出临时文件
+output_temp/
+*.pkl

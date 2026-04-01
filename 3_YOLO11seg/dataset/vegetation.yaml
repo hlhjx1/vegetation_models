@@ -1,0 +1,7 @@
+path: /content/drive/MyDrive/vegetation_models_v2/3_YOLO11seg/dataset
+train: images/train
+val:   images/val
+
+nc: 1
+names:
+  0: vegetation

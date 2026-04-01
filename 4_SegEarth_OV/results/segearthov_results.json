@@ -1,0 +1,22 @@
+{
+  "mIoU": 0.30790171460285315,
+  "F1": 0.42054661088335504,
+  "Acc": 0.4849852946248697,
+  "method": "CLIP-GEM-SlidingWindow",
+  "text_prompts": {
+    "0": [
+      "background",
+      "road",
+      "building",
+      "water",
+      "bare soil"
+    ],
+    "1": [
+      "vegetation",
+      "tree",
+      "forest",
+      "green plant",
+      "dense canopy"
+    ]
+  }
+}
