@@ -1,0 +1,46 @@
+{
+  "DINOv2": {
+    "ready": false,
+    "present_paths": [],
+    "checked_paths": [
+      "D:\\vegetation_models_v2\\_cache\\torch_cache\\hub\\checkpoints\\dinov2_vitl14_reg4_pretrain.pth",
+      "D:\\vegetation_models_v2\\_cache\\torch_cache\\hub\\checkpoints\\dinov2_vitl14_reg4_pretrain.pth",
+      "\\content\\vegetation_foundation_models\\_cache\\torch_cache\\hub\\checkpoints\\dinov2_vitl14_reg4_pretrain.pth",
+      "\\root\\autodl-tmp\\vegetation_foundation_models\\_cache\\torch_cache\\hub\\checkpoints\\dinov2_vitl14_reg4_pretrain.pth"
+    ],
+    "note": "Ready for frozen-backbone smoke training if torch.hub code is also cached."
+  },
+  "DINOv3": {
+    "ready": false,
+    "present_paths": [],
+    "checked_paths": [
+      "D:\\vegetation_models_v2\\10_DINOv3\\weights",
+      "D:\\vegetation_models_v2\\10_DINOv3\\weights",
+      "\\content\\vegetation_foundation_models\\10_DINOv3\\weights",
+      "\\root\\autodl-tmp\\vegetation_foundation_models\\10_DINOv3\\weights"
+    ],
+    "note": "Gated HF access is required; smoke entry should skip gracefully until weights exist."
+  },
+  "QwenVL": {
+    "ready": false,
+    "present_paths": [],
+    "checked_paths": [
+      "D:\\vegetation_models_v2\\11_QwenVL\\weights",
+      "D:\\vegetation_models_v2\\11_QwenVL\\weights",
+      "\\content\\vegetation_foundation_models\\11_QwenVL\\weights",
+      "\\root\\autodl-tmp\\vegetation_foundation_models\\11_QwenVL\\weights"
+    ],
+    "note": "Use prompt-based recognition/localization smoke test, not dense segmentation fine-tuning."
+  },
+  "LocateAnything": {
+    "ready": false,
+    "present_paths": [],
+    "checked_paths": [
+      "D:\\vegetation_models_v2\\12_LocatingAnything\\weights",
+      "D:\\vegetation_models_v2\\12_LocatingAnything\\weights",
+      "\\content\\vegetation_foundation_models\\12_LocatingAnything\\weights",
+      "\\root\\autodl-tmp\\vegetation_foundation_models\\12_LocatingAnything\\weights"
+    ],
+    "note": "Use prompt-based grounding smoke test; box-mask metrics are only supplemental."
+  }
+}

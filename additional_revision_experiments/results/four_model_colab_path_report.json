@@ -1,0 +1,100 @@
+{
+  "project_root": {
+    "found": [
+      "/content/vegetation_models_v2",
+      "/content/drive/MyDrive/vegetation_models_v2"
+    ],
+    "checked": [
+      "/content/vegetation_models_v2",
+      "/content/drive/MyDrive/vegetation_models_v2"
+    ]
+  },
+  "binary_root": {
+    "found": [
+      "/content/binary"
+    ],
+    "checked": [
+      "/content/binary",
+      "/content/vegetation_models_v2/datasets_binary"
+    ]
+  },
+  "dinov2_code_or_cache": {
+    "found": [
+      "/content/vegetation_models_v2/9_DINOv2",
+      "/content/vegetation_foundation_models/_cache/torch_cache/hub/facebookresearch_dinov2_main"
+    ],
+    "checked": [
+      "/content/vegetation_models_v2/9_DINOv2",
+      "/root/.cache/torch/hub/facebookresearch_dinov2_main",
+      "/content/vegetation_foundation_models/_cache/torch_cache/hub/facebookresearch_dinov2_main"
+    ]
+  },
+  "dinov2_pretrain": {
+    "found": [
+      "/content/vegetation_foundation_models/_cache/torch_cache/hub/checkpoints/dinov2_vitl14_reg4_pretrain.pth"
+    ],
+    "checked": [
+      "/root/.cache/torch/hub/checkpoints/dinov2_vitl14_reg4_pretrain.pth",
+      "/content/vegetation_models_v2/_cache/torch_cache/hub/checkpoints/dinov2_vitl14_reg4_pretrain.pth",
+      "/content/vegetation_foundation_models/_cache/torch_cache/hub/checkpoints/dinov2_vitl14_reg4_pretrain.pth"
+    ]
+  },
+  "dinov2_heads": {
+    "found": [
+      "/content/vegetation_models_v2/9_DINOv2/four_dataset_runs/zijinshan/best_head.pth"
+    ],
+    "checked": [
+      "/content/vegetation_models_v2/9_DINOv2/four_dataset_runs/zijinshan/best_head.pth",
+      "/content/vegetation_models_v2/9_DINOv2/four_dataset_runs/loveda/best_head.pth",
+      "/content/vegetation_models_v2/9_DINOv2/four_dataset_runs/potsdam/best_head.pth",
+      "/content/vegetation_models_v2/9_DINOv2/four_dataset_runs/vaihingen/best_head.pth"
+    ]
+  },
+  "dinov3_repo": {
+    "found": [
+      "/content/vegetation_models_v2/10_DINOv3/code/dinov3-main",
+      "/content/drive/MyDrive/vegetation_models_v2/10_DINOv3/code/dinov3-main"
+    ],
+    "checked": [
+      "/content/vegetation_models_v2/10_DINOv3/code/dinov3-main",
+      "/content/drive/MyDrive/vegetation_models_v2/10_DINOv3/code/dinov3-main"
+    ]
+  },
+  "dinov3_pretrain": {
+    "found": [
+      "/content/vegetation_models_v2/10_DINOv3/weights/dinov3_vitl16_pretrain_sat493m-eadcf0ff.pth",
+      "/content/drive/MyDrive/vegetation_models_v2/10_DINOv3/weights/dinov3_vitl16_pretrain_sat493m-eadcf0ff.pth"
+    ],
+    "checked": [
+      "/content/vegetation_models_v2/10_DINOv3/weights/dinov3_vitl16_pretrain_sat493m-eadcf0ff.pth",
+      "/content/drive/MyDrive/vegetation_models_v2/10_DINOv3/weights/dinov3_vitl16_pretrain_sat493m-eadcf0ff.pth"
+    ]
+  },
+  "dinov3_heads": {
+    "found": [
+      "/content/vegetation_models_v2/10_DINOv3/four_dataset_runs/zijinshan/best_head.pth"
+    ],
+    "checked": [
+      "/content/vegetation_models_v2/10_DINOv3/four_dataset_runs/zijinshan/best_head.pth",
+      "/content/vegetation_models_v2/10_DINOv3/four_dataset_runs/loveda/best_head.pth",
+      "/content/vegetation_models_v2/10_DINOv3/four_dataset_runs/potsdam/best_head.pth",
+      "/content/vegetation_models_v2/10_DINOv3/four_dataset_runs/vaihingen/best_head.pth"
+    ]
+  },
+  "qwen_weights_or_cache": {
+    "found": [
+      "/content/vegetation_models_v2/11_QwenVL/weights"
+    ],
+    "checked": [
+      "/content/vegetation_models_v2/11_QwenVL/weights",
+      "/root/.cache/huggingface/hub/models--Qwen--Qwen2.5-VL-3B-Instruct"
+    ]
+  },
+  "locateanything_weights_or_cache": {
+    "found": [],
+    "checked": [
+      "/content/vegetation_models_v2/12_LocatingAnything/weights",
+      "/root/.cache/huggingface/hub/models--nvidia--LocateAnything-3B"
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "dataset_root": "/content/vegetation_models_v2/datasets/2024-seg",
+  "train_samples": 12,
+  "val_samples": 8,
+  "input_size": 518,
+  "epochs": 1,
+  "batch_size": 1,
+  "dinov2_model": "dinov2_vitl14_reg",
+  "feature_dim": 1024,
+  "patch_grid": [
+    37,
+    37
+  ],
+  "elapsed_seconds": 1.4178950786590576,
+  "formal_result": false
+}

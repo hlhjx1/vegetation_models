@@ -1,0 +1,20 @@
+{
+  "dataset": "zijinshan",
+  "output_root": "/content/binary/zijinshan",
+  "protocol": "temporal_split",
+  "train_years": [
+    "2022-seg",
+    "2023-seg"
+  ],
+  "test_years": [
+    "2024-seg"
+  ],
+  "counts_by_year": {
+    "2022-seg": 67,
+    "2023-seg": 67,
+    "2024-seg": 67
+  },
+  "train_count": 134,
+  "test_count": 67,
+  "total_count": 201
+}

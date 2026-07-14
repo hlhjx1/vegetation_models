@@ -1,0 +1,35 @@
+# Fixed held-out 2024 test subset used by SegEarth notebook robustness cell
+# Sample count: 32
+# Mode: formal
+omap_2024_000000.png
+omap_2024_000002.png
+omap_2024_000004.png
+omap_2024_000006.png
+omap_2024_000008.png
+omap_2024_000010.png
+omap_2024_000012.png
+omap_2024_000014.png
+omap_2024_000017.png
+omap_2024_000019.png
+omap_2024_000021.png
+omap_2024_000023.png
+omap_2024_000025.png
+omap_2024_000027.png
+omap_2024_000029.png
+omap_2024_000031.png
+omap_2024_000034.png
+omap_2024_000036.png
+omap_2024_000038.png
+omap_2024_000040.png
+omap_2024_000042.png
+omap_2024_000044.png
+omap_2024_000046.png
+omap_2024_000048.png
+omap_2024_000051.png
+omap_2024_000053.png
+omap_2024_000055.png
+omap_2024_000057.png
+omap_2024_000059.png
+omap_2024_000061.png
+omap_2024_000063.png
+omap_2024_000066.png
